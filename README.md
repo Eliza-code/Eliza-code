@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**Eliza-code/Eliza-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 💻👩 I am a Full Stack Web Developer, excellent at working with others to achieve certain objectives on time, I have demonstrated the ability to work under pressure, and I am always seeking new opportunities where I can put into practice my knowledge and hard work.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technologies I am working on: 
+JavaScript  HTML5  CSS3  React  Node  Express  PostgreSQL  Sequelize  MongoDB  Git  npm  TypeScript  
+
+🦾 Estos son algunos de mis proyectos:
+Good Food App ⚡
+Home Search Detail FormCreate
+
+Front-end:
+React.js
+Redux.js
+CSS3
+Back-end:
+Node.js
+Express.js
+PostgreSQL
+Sequelize
+
+Let's get in touch!
+
+Linkedin  Gmail  WhatsApp
