@@ -67,12 +67,6 @@ I specialize in Flutter and Node.js, with experience optimizing performance, des
 
 ---
 
-## 📊 GitHub Stats
-
-![Elizabeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eliza-code)
-
----
-
 ## 📫 Let's connect
 
 - LinkedIn: https://linkedin.com/in/elizabeth-lizcano-dev  
